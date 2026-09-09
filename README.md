@@ -1,7 +1,7 @@
 # UX Design Core Techniques: A Practical Guide
 
-### Name: Dhayananth.P.S
-### Reg no: 212223040039
+### Name: VIMALARAJ R
+### Reg no: 212223040242
 
 ## 1. Solution Ideation (Crazy 8s)
 
